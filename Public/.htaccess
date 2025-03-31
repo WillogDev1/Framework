@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteBase /Public/
+
+# Certifique-se de que as URLs funcionem corretamente
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ Index.php [QSA,L]
