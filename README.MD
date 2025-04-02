@@ -23,3 +23,9 @@ Tenho curiosidade em descobrir como funciona uma Framework e quero melhorar minh
 Estarei tentando me abster ao máximo de I.A neste projeto. Me limitarei a usar para comentários, descrições e documentação. Para código, devo tentar ao máximo não usar, e quando usar, saber o que estou pedindo e o que estou recebendo.
 
 Estou usando Co-Pilot para autocompletar na IDE LazyVim. Pretendo criar um documento com toda a minha pesquisa feita para I.A.
+
+## JIRA
+
+https://wgibram.atlassian.net/jira/software/projects/FWP/boards/34/timeline?shared=&atlOrigin=eyJpIjoiNGJmMGJjMzI2MTA2NGJjMzk5ZmM0YzZhZGVkNzNkYTkiLCJwIjoiaiJ9
+
+Caso queira acompanhar no Jira, estou usando a Framework Scrum para testar e aprender.
