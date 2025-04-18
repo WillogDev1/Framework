@@ -1,9 +1,8 @@
 <?php
-
 require __DIR__ . '/../vendor/autoload.php';
 
-use Engine\Http\Http;
+use Engine\Router\Router;
 
-$http = new Http();
+//Router::ROUTER();
 
-print_r($http->getRequestMethod());
+$ROUTER = new Router();
